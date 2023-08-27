@@ -1,7 +1,6 @@
 # ReactJS Todo List project
-During the coding training at **MolenGeek** I made a Todo List to practice ReactJS.
 
-![Alt](https://raw.githubusercontent.com/Va2/react-todo-list/master/screenshot.jpg)
+I have made a ReactJS Todo List project with the help of ReactJS, Bootstrap , Lodash and UUID.
 
 ## Getting Started
 
@@ -17,65 +16,63 @@ npm install
 ```
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Built With
 
-* [ReactJS](https://reactjs.org/)
 
-## Author(s)
+## The functions of this website:
 
-* **Vadim Brieven** - *Junior Web Developer* - [GitHub account](https://github.com/Va2)
+### Inserting a task
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/42c87412-056b-4037-be47-3f6ce132cdb6)
 
-## MIT License
+After clicking add new task it is as follows
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/61564729-bd5f-49af-bbf8-b560e97033ef)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### Option to toggle between done and not done
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/6604796b-a451-4a0b-8923-46d320740362)
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+### Editing the task if needed
+#### Before:
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/f1b37855-0497-4d07-942d-c6e074adf76b)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#### During editing
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/70ffe109-3fba-470d-bcce-f4d67506e1e6)
 
-## Create React App
+#### After editing:
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/ab82c6a9-805f-43d5-ba28-fdc5c25e2e50)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Ability to filter through All, Done and Todo tasks
+#### All
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/ea3a8c13-50b6-4ac4-a202-2847ad544c85)
+#### Done
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/9e8ac7c4-c2bb-4729-bd71-22f1b165d4f6)
+### Todo
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/d1c3ebf7-2774-421c-b500-65f8086581b7)
 
-## Available Scripts
+### Delete a specific task
+#### Before deleting ReactJS task
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/63c995f3-d2a9-4771-bc5f-0ec106bddc51)
 
-In the project directory, you can run:
+#### After deleting ReactJS task
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/a5270fd3-12b3-4010-8fa2-be98596dbcaa)
 
-### `npm start`
+### Ability to filter delete the done tasks or all tasks 
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Before filter deleting done tasks
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/dc9e6221-db15-48a6-99c4-444828ac0b49)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+#### After filter deleting done tasks
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/9cd402fe-a03d-4c8b-8882-211e982fbaaf)
 
-### `npm test`
+#### Before filter deleting all tasks 
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/028566a5-c040-4425-8c33-18ca32cd6aec)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### After filter deleting all tasks
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/a8e94b5c-5f22-4db6-9877-eba11840ae0c)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
