@@ -17,7 +17,8 @@ npm install
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 The website looks like this
-![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/6c8ab64d-0954-41e3-99c0-56c8165f8c38)
+![image](https://github.com/Darkphantom323/ToDoList/assets/99313418/4ec88d83-7234-4135-9165-9a5ec9d4972a)
+
 
 
 ## The functions of this website:
